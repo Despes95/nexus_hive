@@ -1,0 +1,39 @@
+# Nexus Hive - GitHub Repository
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Electron
+node_modules/
+dist/
+*.log
+
+# Données utilisateur
+conversations/
+memory.json
+favorites.json
+session_stats.json
+
+# Code généré
+generated_code/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.egg-info/
+build/
